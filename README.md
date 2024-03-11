@@ -1,4 +1,4 @@
-## DISCORD USERNAME: blackburn_xl
+## DISCORD USERNAME: Reohpsy#7819
 <!-- # ⭕ Tic-Tac-Toe -->
 
 [//]: # (<img alt="workshop/tictactoe" width="1412" src="../.resources/tictactoe.png">)
